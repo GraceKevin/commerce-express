@@ -2,7 +2,6 @@
   ![MIT](https://img.shields.io/badge/License-MIT-blue)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Test](#test)
   * [Questions](#questions)
   * [License](#license)
   
@@ -30,6 +29,8 @@ I utlized postman in order to view and adjust the information. You may utilize p
 
   # Usage
     The application is used to GET, create, update, and delete data in those routes
+  
+https://user-images.githubusercontent.com/83180774/133932190-bf8ed88b-ba84-4d47-95e3-244d3808e9e8.mp4  
   # Questions
   *  You may  reach out to me directly at kgrace90@yahoo.com for any questions.
 
